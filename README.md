@@ -34,11 +34,11 @@
 
 ### Обучение разных моделей на наших данных:
 Будем проверять разные модели классического машинного обучения, перебирать у них параметры с помощью кросс-валидации и смотреть на метрики: accuracy, f1-score, roc-auc.
-1) **Логистическая регрессия**
+1)**Логистическая регрессия**
 <img src="https://github.com/stepanskiba/ml_stepik_project/blob/master/images/log_reg.png" alt="альтернативный текст">
-2) **Решаюшее дерево**
+2)**Решаюшее дерево**
 <img src="https://github.com/stepanskiba/ml_stepik_project/blob/master/images/tree.png" alt="альтернативный текст">
-3) **Случайный лес**
+3)**Случайный леc**
 <img src="https://github.com/stepanskiba/ml_stepik_project/blob/master/images/random_forest.png" alt="альтернативный текст">
-4) **Градиентный бустинг**
+4)**Градиентный бустинг**
 <img src="https://github.com/stepanskiba/ml_stepik_project/blob/master/images/grad_boost.png" alt="альтернативный текст">
